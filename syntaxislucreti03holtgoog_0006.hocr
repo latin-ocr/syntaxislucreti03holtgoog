@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./syntaxislucreti03holtgoog_0006.png"; bbox 0 0 3102 5002; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 543 670 1070 908">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 543 670 1070 908">
+     <span class='ocr_line' id='line_1_1' title="bbox 543 670 1070 908; baseline 0.049 -58"><span class='ocrx_word' id='word_1_1' title='bbox 543 670 937 908; x_wconf 66' lang='lat' dir='ltr'><strong>SYNTAxls</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 1068 871 1070 876; x_wconf 79' lang='grc'>,</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 164 1147 1542 1368">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 164 1147 1542 1368">
+     <span class='ocr_line' id='line_1_2' title="bbox 164 1147 1542 1368; baseline 0.005 -8"><span class='ocrx_word' id='word_1_3' title='bbox 164 1195 1320 1368; x_wconf 79' lang='lat' dir='ltr'><strong>LUCRETIANAE</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 1540 1147 1542 1154; x_wconf 67' lang='lat'><strong><em>‘</em></strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 451 1695 1035 1813">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 451 1695 1035 1813">
+     <span class='ocr_line' id='line_1_3' title="bbox 451 1695 1035 1813; baseline 0.005 -7"><span class='ocrx_word' id='word_1_5' title='bbox 451 1695 1035 1813; x_wconf 79' lang='lat' dir='ltr'><strong>LINEAMENTA.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 0 0 1556 5002">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 0 0 1556 5002">
+     <span class='ocr_line' id='line_1_4' title="bbox 0 0 1556 5002; baseline 0 0"><span class='ocrx_word' id='word_1_6' title='bbox 0 0 1556 5002; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
